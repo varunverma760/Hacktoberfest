@@ -134,6 +134,6 @@ https://github.com/your-username/Hacktoberfest.git
 
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
-# Hurray! You just got closer to completing your Hacktoberfest challenge.
+# hurray! You just got closer to completing your Hacktoberfest challenge.
 
 > ©ACM-BVP 2019
